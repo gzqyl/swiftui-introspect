@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "introspect",
+    name: "Introspect",
     platforms: [
         .iOS(.v13),
         .tvOS(.v13),

@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Introspect",
+    name: "swiftui-introspect",
     platforms: [
         .iOS(.v13),
         .tvOS(.v13),
